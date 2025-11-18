@@ -8,7 +8,7 @@ export const analyzeCheckImage = async (
   base64Data: string,
   mimeType: string
 ): Promise<AnalysisResult> => {
-  const modelId = "gemini-2.5-flash";
+  const modelId = "gemini-2.0-flash";
 
   const prompt = `
     You are an expert forensic document examiner and banking AI. 
