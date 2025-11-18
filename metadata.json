@@ -1,0 +1,5 @@
+{
+  "name": "SentinelCheck AI",
+  "description": "Automated bank check extraction and AI-powered fraud detection system using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
